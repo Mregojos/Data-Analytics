@@ -1,2 +1,2 @@
 # Data-Analytics
-Data Analytics Capstone projects
+Data Analytics Capstone Project
